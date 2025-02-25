@@ -11,7 +11,10 @@ A sleek and modern TODO list app built with Flutter. This app allows users to ad
 - ⏳ Real-time countdown timer displayed for each task
 - 🎨 Beautiful and responsive UI with Material Design
 
-## 📸 Screenshots & 🎥 Demo
+## 📥 Download
+[![Download TODO App](https://img.shields.io/badge/Download-TODOApp-blue)](https://github.com/Sakshi-2508/Flutter-TODO-App/raw/refs/heads/main/apk/demo.apk)
+
+## 📸 Screenshot
 
 <div>
   <img src="./screenshot/Screenshot_1740472248.png" width="30%" height="30%"/>
@@ -21,7 +24,7 @@ A sleek and modern TODO list app built with Flutter. This app allows users to ad
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sakshi-2508/flutter-todo-app.git
+   git clone https://github.com/Sakshi-2508/Flutter-TODO-App.git
    ```
 2. Navigate to the project directory:
    ```sh
