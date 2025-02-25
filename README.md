@@ -14,7 +14,7 @@ A sleek and modern TODO list app built with Flutter. This app allows users to ad
 ## 📸 Screenshots & 🎥 Demo
 
 <div align="center">
-  <img src="./screenshot/Screenshot_1740472248.png" width="45%" />
+  <img src="./screenshot/Screenshot_1740472248.png" width="30%" height="30%"/>
   <video width="45%" controls>
     <source src="./screenshot/Screen_recording_20250225_140251.mp4" type="video/mp4">
     Your browser does not support the video tag.
